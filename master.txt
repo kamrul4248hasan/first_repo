@@ -1,1 +1,2 @@
-This is my master document
+This is my first document !!
+ i change it from something to new.
